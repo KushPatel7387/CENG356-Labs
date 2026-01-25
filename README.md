@@ -5,4 +5,4 @@
 
 ## Source Code
 The C source code for this lab is available here:
-https://github.com/USERNAME/CENG356-Lab1/blob/main/lab1.c
+https://github.com/KushPatel7387/CENG356-Labs/blob/master/lab1.c
