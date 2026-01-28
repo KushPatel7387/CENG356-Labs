@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Lab2.c
- Author      : Kush PAtel
+ Author      : Kush Patel
  Version     :
  Copyright   :
  Description : Lab 2 - Signed integer and IEEE-754 float conversion
@@ -209,3 +209,4 @@ void convert_binary_to_float(const char *binary)
 
     printf("Floating-point value: %.10g\n", value);
 }
+
